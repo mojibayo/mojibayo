@@ -4,7 +4,7 @@ import random
 class vythea:
     """
     vythea — /ˈvī-thē-ə/
-    a relentless force of creation and precision; one who shapes the world with vision, structure, and unyielding execution.
+    a relentless force of creation and precision.
     """
 
     def __init__(self):
