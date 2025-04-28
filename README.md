@@ -1,3 +1,4 @@
+```py
 import random
 
 class vythea:
@@ -63,3 +64,4 @@ class vythea:
 if __name__ == "__main__":
     khaleed = vy()
     khaleed.summon()
+```
