@@ -1,7 +1,6 @@
 ```py
-class vythea:
+class moj:
     """
-    vythea — /ˈvī-thē-ə/
-    a relentless force of creation and precision.
+    what power have dreams in hell ?
     """
 ```
